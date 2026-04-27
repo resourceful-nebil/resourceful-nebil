@@ -66,26 +66,24 @@
 
 ### ⚙️ DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
 </p>
 
 ### 🧠 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/opencv-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+  <img src="https://cdn.simpleicons.org/opencv/white" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/white" height="40"/>
 </p>
 
 ### 🛠️ Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40"/>
 </p>
 
 ---
