@@ -55,7 +55,7 @@
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40"/>
 </p>
 
