@@ -50,7 +50,7 @@
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,go" />
 </p>
 
 ### 🗄️ Databases
