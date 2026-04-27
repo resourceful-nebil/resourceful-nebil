@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nebiyou Elias</h1>
-<h3 align="center">Web & Mobile Developer | Flutter • React • Django</h3>
+<h3 align="center">Software & AI Engineer | Fullstack • Flutter • React • Django • LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=resourceful-nebil&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,12 +8,20 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building a **Flutter app** (coming soon 🚀)  
-- 👯 Open to **open-source collaborations**  
-- 🤝 Exploring **AI/ML & scalable systems**  
-- 🌱 Learning **Django & advanced frontend systems**  
-- 💬 Ask me about **Flutter, React, Clean Architecture**  
-- ⚡ Organized one of the **largest hackathons on campus**
+- 🧠 Software & AI Engineer focused on building **intelligent, scalable systems**
+- 📱 Strong background in **fullstack + mobile development**
+- 🤖 Building AI-powered applications using **LLMs, LangChain, and modern AI tooling**
+- 👨‍💻 Experienced in leading teams and delivering production-ready applications
+- 🌍 Passionate about leveraging AI to solve **real-world problems in Africa**
+
+---
+
+## 🧩 What I Do
+- Build **Fullstack AI applications** (LLM-powered systems, intelligent workflows)
+- Develop **scalable backend systems & APIs**
+- Create **cross-platform mobile apps** with Flutter
+- Design **modern, responsive web apps** using React & Next.js
+- Apply **system design + DSA** to build efficient, reliable systems
 
 ---
 
@@ -31,28 +39,34 @@
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" />
 </p>
 
-### 📱 Mobile
-<p>
+### 📱 Mobile Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 </p>
 
-### ⚙️ Backend
-<p>
+### ⚙️ Backend Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://cdn.worldvectorlogo.com/logos/supabase-1.svg" width="40" height="40"/>
 </p>
 
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,heroku" />
+### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,vercel,netlify,heroku" />
+</p>
+
+### ⚙️ DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" />
 </p>
 
 ### 🧠 AI / ML
@@ -62,10 +76,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/opencv-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" width="40" height="40"/>
 </p>
 
-### 🛠️ Tools
-<p>
+### 🛠️ Tools & Workflow
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/>
@@ -85,11 +101,11 @@
 
 ---
 
-## 🏆 Achievements
-- 🚀 Built scalable apps using **Flutter (Clean Architecture + BLoC)**  
-- 🎯 Solved **800+ DSA problems (A2SV)**  
-- 👨‍💻 Led development teams using **Agile**  
-- 🎤 Mentored students in web development  
+## 🏆 Highlights
+- 🤖 Building **AI-powered applications with LLMs**
+- 🚀 Strong focus on **scalable system design**
+- 👨‍💻 Experience in **team leadership & production systems**
+- 🌍 Focused on **real-world impact through technology**
 
 ---
 
